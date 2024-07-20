@@ -1,9 +1,9 @@
 #!/bin/bash
 
-echo "This command will be run: sudo ln -s /usr/lib/libdl.so.2 /usr/lib/libdl.so"
+echo "This command will be run: sudo ln -sf /usr/lib/libdl.so.2 /usr/lib/libdl.so"
 read -p "Continue? (y/N): " confirm && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] || exit 1
 
-sudo ln -s /usr/lib/libdl.so.2 /usr/lib/libdl.so
+sudo ln -sf /usr/lib/libdl.so.2 /usr/lib/libdl.so
 
 if [[ $SDL_VIDEODRIVER == "wayland" ]]; then
 	echo "SDL_VIDEODRIVER is already set to $SDL_VIDEODRIVER"
@@ -21,3 +21,7 @@ else
 	echo ""
 	exit 0
 fi
+
+echo "This command will be run: export VK_DRIVER_FILES=/usr/share/vulkan/icd.d/nvidia_icd.json"
+read -p "Continue? (y/N): " confirm && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] || exit 1
+echo "env = VK_DRIVER_FILES=/usr/share/vulkan/icd.d/nvidia_icd.json" >>../hyprland.conf
