@@ -1,5 +1,9 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
+SETUVAR --export GBM_BACKEND:nvidia\x2ddrm
+SETUVAR --export SDL_VIDEODRIVER:wayland
+SETUVAR --export VK_DRIVER_FILES:/usr/share/vulkan/icd\x2ed/nvidia_icd\x2ejson
+SETUVAR --export __GLX_VENDOR_LIBRARY_NAME:nvidia
 SETUVAR __fish_initialized:3400
 SETUVAR _fisher_jorgebucaran_2F_fisher_files:\x7e/\x2econfig/fish/functions/fisher\x2efish\x1e\x7e/\x2econfig/fish/completions/fisher\x2efish
 SETUVAR _fisher_plugins:jorgebucaran/fisher

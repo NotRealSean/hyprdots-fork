@@ -1,0 +1,19 @@
+{
+    "tray": false,
+    "menu": false,
+    "log": true,
+    "profiles": true,
+    "preview": true,
+    "startMinimized": false,
+    "closeToTray": false,
+    "applyStart": false,
+    "extendSpeed": false,
+    "language": "",
+    "trayIconStyle": "color",
+    "windowWidth": 900,
+    "windowHeight": 550,
+    "windowPosX": 0,
+    "windowPosY": 0,
+    "sashPosVertical": 600,
+    "sashPosHorizontal": 400
+}

@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "this do nothing yet"
+cp -rf ./.config/ $USER/.config/

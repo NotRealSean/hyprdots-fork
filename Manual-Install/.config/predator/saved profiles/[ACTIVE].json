@@ -1,0 +1,32 @@
+{
+    "mode": 0,
+    "zone": 1,
+    "speed": 3,
+    "brightness": 100,
+    "direction": 1,
+    "red": 192,
+    "green": 97,
+    "blue": 203,
+    "colors": [
+        {
+            "red": 192,
+            "green": 97,
+            "blue": 203
+        },
+        {
+            "red": 98,
+            "green": 160,
+            "blue": 234
+        },
+        {
+            "red": 98,
+            "green": 160,
+            "blue": 234
+        },
+        {
+            "red": 192,
+            "green": 97,
+            "blue": 203
+        }
+    ]
+}

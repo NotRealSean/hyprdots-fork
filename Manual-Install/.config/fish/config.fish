@@ -23,7 +23,7 @@ atuin init fish | source
 
 thefuck --alias | source
 
-
-#set -Ux SDL_VIDEODRIVER wayland
-#set -Ux GBM_BACKEND nvidia-drm
-#set -Ux __GLX_VENDOR_LIBRARY_NAME nvidia
+set -Ux SDL_VIDEODRIVER wayland
+set -Ux GBM_BACKEND nvidia-drm
+set -Ux __GLX_VENDOR_LIBRARY_NAME nvidia
+set -Ux VK_DRIVER_FILES /usr/share/vulkan/icd.d/nvidia_icd.json
