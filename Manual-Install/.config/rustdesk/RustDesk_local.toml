@@ -1,0 +1,20 @@
+remote_id = '422057133'
+kb_layout_type = ''
+size = [
+    0,
+    0,
+    0,
+    0,
+]
+fav = []
+
+[options]
+remote-menubar-drag-left = '0.0'
+theme = 'dark'
+remote-menubar-drag-right = '1.0'
+wayland-restore-token = '97ff4ed6-26c4-4cd7-a417-1f87ba7df385'
+
+[ui_flutter]
+peer-sorting = 'Remote ID'
+wm_RemoteDesktop = '{"width":1479.0,"height":893.0,"offsetWidth":0.0,"offsetHeight":0.0,"isMaximized":false,"isFullscreen":false}'
+wm_Main = '{"width":800.0,"height":600.0,"offsetWidth":0.0,"offsetHeight":0.0,"isMaximized":false,"isFullscreen":false}'

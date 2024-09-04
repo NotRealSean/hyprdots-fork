@@ -1,0 +1,366 @@
+18:45:31.221: Platform: Wayland
+18:45:31.221: CPU Name: AMD Ryzen 5 6600H with Radeon Graphics
+18:45:31.221: CPU Speed: 2564.921MHz
+18:45:31.221: Physical Cores: 6, Logical Cores: 12
+18:45:31.221: Physical Memory: 15173MB Total, 9590MB Free
+18:45:31.221: Kernel Version: Linux 6.10.6-arch1-1
+18:45:31.221: Distribution: "Arch Linux" Unknown
+18:45:31.221: Desktop Environment: Hyprland (Hyprland)
+18:45:31.221: Session Type: wayland
+18:45:31.223: Qt Version: 6.7.2 (runtime), 6.7.2 (compiled)
+18:45:31.223: Portable mode: false
+18:45:31.250: OBS 30.2.1-1 (linux)
+18:45:31.250: ---------------------------------
+18:45:31.250: ---------------------------------
+18:45:31.250: audio settings reset:
+18:45:31.250: 	samples per sec: 48000
+18:45:31.250: 	speakers:        2
+18:45:31.250: 	max buffering:   960 milliseconds
+18:45:31.250: 	buffering type:  dynamically increasing
+18:45:31.255: ---------------------------------
+18:45:31.255: Initializing OpenGL...
+18:45:31.255: Using EGL/Wayland
+18:45:31.292: Initialized EGL 1.5
+18:45:31.371: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 3050 Laptop GPU/PCIe/SSE2
+18:45:31.371: OpenGL loaded successfully, version 3.3.0 NVIDIA 560.35.03, shading language 3.30 NVIDIA via Cg compiler
+18:45:31.390: ---------------------------------
+18:45:31.390: video settings reset:
+18:45:31.390: 	base resolution:   1920x1080
+18:45:31.390: 	output resolution: 1920x1080
+18:45:31.390: 	downscale filter:  Bicubic
+18:45:31.390: 	fps:               120/1
+18:45:31.390: 	format:            NV12
+18:45:31.390: 	YUV mode:          Rec. 709/Partial
+18:45:31.390: NV12 texture support enabled
+18:45:31.390: P010 texture support not available
+18:45:31.391: Audio monitoring device:
+18:45:31.391: 	name: Default
+18:45:31.391: 	id: default
+18:45:31.391: ---------------------------------
+18:45:31.399: Failed to load 'en-US' text for module: 'decklink-captions.so'
+18:45:31.406: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+18:45:31.413: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+18:45:31.413: Failed to initialize module 'decklink.so'
+18:45:31.551: [pipewire] Available capture sources:
+18:45:31.551: [pipewire]     - Monitor source
+18:45:31.551: [pipewire]     - Window source
+18:45:31.631: NVENC supported
+18:45:31.802: VAAPI: API version 1.22
+18:45:31.859: FFmpeg VAAPI H264 encoding supported
+18:45:32.010: FFmpeg VAAPI AV1 encoding supported
+18:45:32.157: FFmpeg VAAPI HEVC encoding supported
+18:45:32.710: ---------------------------------
+18:45:32.710:   Loaded Modules:
+18:45:32.710:     text-freetype2.so
+18:45:32.710:     rtmp-services.so
+18:45:32.710:     obs-x264.so
+18:45:32.710:     obs-webrtc.so
+18:45:32.710:     obs-vst.so
+18:45:32.710:     obs-transitions.so
+18:45:32.710:     obs-qsv11.so
+18:45:32.710:     obs-outputs.so
+18:45:32.710:     obs-libfdk.so
+18:45:32.710:     obs-filters.so
+18:45:32.710:     obs-ffmpeg.so
+18:45:32.710:     linux-v4l2.so
+18:45:32.710:     linux-pulseaudio.so
+18:45:32.710:     linux-pipewire.so
+18:45:32.710:     linux-jack.so
+18:45:32.710:     linux-capture.so
+18:45:32.710:     linux-alsa.so
+18:45:32.710:     image-source.so
+18:45:32.710:     frontend-tools.so
+18:45:32.710:     decklink-output-ui.so
+18:45:32.710:     decklink-captions.so
+18:45:32.710: ---------------------------------
+18:45:32.710: ---------------------------------
+18:45:32.710: Available Encoders:
+18:45:32.710:   Video Encoders:
+18:45:32.710: 	- ffmpeg_svt_av1 (SVT-AV1)
+18:45:32.710: 	- ffmpeg_aom_av1 (AOM AV1)
+18:45:32.710: 	- jim_nvenc (NVIDIA NVENC H.264)
+18:45:32.710: 	- jim_hevc_nvenc (NVIDIA NVENC HEVC)
+18:45:32.710: 	- jim_av1_nvenc (NVIDIA NVENC AV1)
+18:45:32.710: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+18:45:32.710: 	- av1_ffmpeg_vaapi_tex (FFmpeg VAAPI AV1)
+18:45:32.710: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+18:45:32.710: 	- obs_x264 (x264)
+18:45:32.710:   Audio Encoders:
+18:45:32.710: 	- ffmpeg_aac (FFmpeg AAC)
+18:45:32.710: 	- ffmpeg_opus (FFmpeg Opus)
+18:45:32.710: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+18:45:32.710: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+18:45:32.710: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+18:45:32.710: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+18:45:32.710: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+18:45:32.710: 	- libfdk_aac (libfdk AAC)
+18:45:32.710: ==== Startup complete ===============================================
+18:45:32.746: All scene data cleared
+18:45:32.746: ------------------------------------------------
+18:45:32.749: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.3) 15.0.0'
+18:45:32.749: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+18:45:32.749: pulse-input: Started recording from 'alsa_output.pci-0000_75_00.6.analog-stereo.monitor' (default)
+18:45:32.749: [Loaded global audio device]: 'Desktop Audio'
+18:45:32.750: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.3) 15.0.0'
+18:45:32.750: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+18:45:32.750: pulse-input: Started recording from 'alsa_input.pci-0000_75_00.6.analog-stereo' (default)
+18:45:32.750: [Loaded global audio device]: 'Mic/Aux'
+18:45:32.750: PipeWire initialized
+18:45:32.750: PipeWire initialized
+18:45:32.751: PipeWire initialized
+18:45:32.752: Switched to scene 'Scene'
+18:45:32.752: ------------------------------------------------
+18:45:32.752: Loaded scenes:
+18:45:32.752: - scene 'Scene':
+18:45:32.752:     - source: 'Screen Capture (PipeWire)' (pipewire-desktop-capture-source)
+18:45:32.752:     - source: 'Main' (pipewire-window-capture-source)
+18:45:32.752:     - source: 'Vtube' (pipewire-window-capture-source)
+18:45:32.752:         - filter: 'Chroma Key' (chroma_key_filter_v2)
+18:45:32.752: ------------------------------------------------
+18:45:32.782: [pipewire] Screencast session created
+18:45:32.782: [pipewire] Screencast session created
+18:45:32.782: [pipewire] Screencast session created
+18:45:33.341: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+18:45:33.341: 
+18:45:33.633: [pipewire] Failed to select source, denied or cancelled by user
+18:45:34.423: [pipewire] Failed to select source, denied or cancelled by user
+18:45:34.424: [pipewire] Failed to select source, denied or cancelled by user
+18:45:36.559: PipeWire initialized
+18:45:36.560: [pipewire] Screencast session created
+18:45:42.886: [pipewire] Asking for window
+18:45:42.888: [pipewire] source selected, setting up screencast
+18:45:42.893: [pipewire] Server version: 1.2.3
+18:45:42.893: [pipewire] Library version: 1.2.3
+18:45:42.893: [pipewire] Header version: 1.2.1
+18:45:42.895: [pipewire] Created stream 0x5c5597c37e20
+18:45:42.895: [pipewire] Stream 0x5c5597c37e20 state: "connecting" (error: none)
+18:45:42.896: [pipewire] Playing stream 0x5c5597c37e20
+18:45:42.896: [pipewire] Stream 0x5c5597c37e20 state: "paused" (error: none)
+18:45:42.903: [pipewire] Negotiated format:
+18:45:42.903: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:45:42.903: [pipewire]     Modifier: 0x0
+18:45:42.903: [pipewire]     Size: 1900x1028
+18:45:42.903: [pipewire]     Framerate: 0/1
+18:45:42.903: [pipewire] Negotiated format:
+18:45:42.903: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:45:42.903: [pipewire]     Modifier: 0x0
+18:45:42.903: [pipewire]     Size: 1900x1028
+18:45:42.903: [pipewire]     Framerate: 0/1
+18:45:42.904: [pipewire] Stream 0x5c5597c37e20 state: "streaming" (error: none)
+18:45:42.985: glEGLImageTargetTexture2DOES failed, glGetError returned GL_INVALID_OPERATION(0x502)
+18:45:42.988: glEGLImageTargetTexture2DOES failed, glGetError returned GL_INVALID_OPERATION(0x502)
+18:45:42.988: [pipewire] Renegotiating stream
+18:45:42.989: [pipewire] Negotiated format:
+18:45:42.989: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:45:42.989: [pipewire]     Modifier: 0x0
+18:45:42.989: [pipewire]     Size: 1900x1028
+18:45:42.989: [pipewire]     Framerate: 0/1
+18:45:42.990: [pipewire] Negotiated format:
+18:45:42.990: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:45:42.990: [pipewire]     Modifier: 0xffffffffffffff
+18:45:42.990: [pipewire]     Size: 1900x1028
+18:45:42.990: [pipewire]     Framerate: 0/1
+18:47:08.748: [pipewire] Stream 0x5c5597c37e20 state: "paused" (error: none)
+18:47:08.749: [pipewire] Stream 0x5c5597c37e20 state: "unconnected" (error: none)
+18:47:08.774: PipeWire initialized
+18:47:08.776: [pipewire] Screencast session created
+18:47:11.525: [pipewire] Failed to select source, denied or cancelled by user
+18:49:41.274: PipeWire initialized
+18:49:41.276: [pipewire] Screencast session created
+18:49:42.394: [pipewire] Asking for monitor
+18:49:42.395: [pipewire] source selected, setting up screencast
+18:49:42.400: [pipewire] Server version: 1.2.3
+18:49:42.400: [pipewire] Library version: 1.2.3
+18:49:42.400: [pipewire] Header version: 1.2.1
+18:49:42.403: [pipewire] Created stream 0x5c5597c31ca0
+18:49:42.403: [pipewire] Stream 0x5c5597c31ca0 state: "connecting" (error: none)
+18:49:42.403: [pipewire] Playing stream 0x5c5597c31ca0
+18:49:42.403: [pipewire] Stream 0x5c5597c31ca0 state: "paused" (error: none)
+18:49:42.410: [pipewire] Negotiated format:
+18:49:42.410: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:49:42.410: [pipewire]     Modifier: 0x0
+18:49:42.410: [pipewire]     Size: 1920x1080
+18:49:42.410: [pipewire]     Framerate: 0/1
+18:49:42.410: [pipewire] Negotiated format:
+18:49:42.410: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:49:42.410: [pipewire]     Modifier: 0x0
+18:49:42.410: [pipewire]     Size: 1920x1080
+18:49:42.410: [pipewire]     Framerate: 0/1
+18:49:42.411: [pipewire] Stream 0x5c5597c31ca0 state: "streaming" (error: none)
+18:49:42.461: glEGLImageTargetTexture2DOES failed, glGetError returned GL_INVALID_OPERATION(0x502)
+18:49:42.463: glEGLImageTargetTexture2DOES failed, glGetError returned GL_INVALID_OPERATION(0x502)
+18:49:42.464: [pipewire] Negotiated format:
+18:49:42.464: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:49:42.464: [pipewire]     Modifier: 0x0
+18:49:42.464: [pipewire]     Size: 1920x1080
+18:49:42.464: [pipewire]     Framerate: 0/1
+18:49:42.464: [pipewire] Negotiated format:
+18:49:42.464: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:49:42.464: [pipewire]     Modifier: 0x0
+18:49:42.464: [pipewire]     Size: 1920x1080
+18:49:42.464: [pipewire]     Framerate: 0/1
+18:49:42.464: [pipewire] Negotiated format:
+18:49:42.464: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:49:42.464: [pipewire]     Modifier: 0x0
+18:49:42.464: [pipewire]     Size: 1920x1080
+18:49:42.464: [pipewire]     Framerate: 0/1
+18:49:42.464: [pipewire] Negotiated format:
+18:49:42.464: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:49:42.464: [pipewire]     Modifier: 0x0
+18:49:42.464: [pipewire]     Size: 1920x1080
+18:49:42.464: [pipewire]     Framerate: 0/1
+18:49:42.464: [pipewire] Renegotiating stream
+18:49:42.464: [pipewire] Negotiated format:
+18:49:42.464: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:49:42.464: [pipewire]     Modifier: 0x0
+18:49:42.464: [pipewire]     Size: 1920x1080
+18:49:42.464: [pipewire]     Framerate: 0/1
+18:49:42.465: [pipewire] Negotiated format:
+18:49:42.465: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:49:42.465: [pipewire]     Modifier: 0xffffffffffffff
+18:49:42.465: [pipewire]     Size: 1920x1080
+18:49:42.465: [pipewire]     Framerate: 0/1
+18:49:42.481: glEGLImageTargetTexture2DOES failed, glGetError returned GL_INVALID_OPERATION(0x502)
+18:49:42.482: [pipewire] Renegotiating stream
+18:49:42.482: [pipewire] Stream 0x5c5597c31ca0 state: "paused" (error: none)
+18:49:42.482: [pipewire] Negotiated format:
+18:49:42.482: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:49:42.482: [pipewire]     Size: 1920x1080
+18:49:42.482: [pipewire]     Framerate: 0/1
+18:49:42.487: [pipewire] Stream 0x5c5597c31ca0 state: "streaming" (error: none)
+18:49:50.702: Creating a popup with a parent, QWidgetWindow(0x5c55946a65d0, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x5c5597c23cf0, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+18:49:56.895: PipeWire initialized
+18:49:56.901: User added source 'Screen Capture (PipeWire) 2' (pipewire-screen-capture-source) to scene 'Scene'
+18:49:56.908: [pipewire] Screencast session created
+18:50:00.497: [pipewire] Asking for monitor and window
+18:50:00.499: [pipewire] source selected, setting up screencast
+18:50:00.502: [pipewire] Server version: 1.2.3
+18:50:00.502: [pipewire] Library version: 1.2.3
+18:50:00.502: [pipewire] Header version: 1.2.1
+18:50:00.527: [pipewire] Created stream 0x5c559813a160
+18:50:00.527: [pipewire] Stream 0x5c559813a160 state: "connecting" (error: none)
+18:50:00.527: [pipewire] Playing stream 0x5c559813a160
+18:50:00.527: [pipewire] Stream 0x5c559813a160 state: "paused" (error: none)
+18:50:00.535: [pipewire] Negotiated format:
+18:50:00.535: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:50:00.535: [pipewire]     Modifier: 0x0
+18:50:00.535: [pipewire]     Size: 1900x1028
+18:50:00.535: [pipewire]     Framerate: 0/1
+18:50:00.535: [pipewire] Negotiated format:
+18:50:00.536: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:50:00.536: [pipewire]     Modifier: 0x0
+18:50:00.536: [pipewire]     Size: 1900x1028
+18:50:00.536: [pipewire]     Framerate: 0/1
+18:50:00.536: [pipewire] Stream 0x5c559813a160 state: "streaming" (error: none)
+18:50:00.621: glEGLImageTargetTexture2DOES failed, glGetError returned GL_INVALID_OPERATION(0x502)
+18:50:00.630: glEGLImageTargetTexture2DOES failed, glGetError returned GL_INVALID_OPERATION(0x502)
+18:50:00.630: [pipewire] Renegotiating stream
+18:50:00.633: [pipewire] Negotiated format:
+18:50:00.633: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:50:00.633: [pipewire]     Modifier: 0x0
+18:50:00.633: [pipewire]     Size: 1900x1028
+18:50:00.633: [pipewire]     Framerate: 0/1
+18:50:00.639: [pipewire] Negotiated format:
+18:50:00.639: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:50:00.639: [pipewire]     Modifier: 0xffffffffffffff
+18:50:00.639: [pipewire]     Size: 1900x1028
+18:50:00.639: [pipewire]     Framerate: 0/1
+18:50:00.640: [pipewire] Negotiated format:
+18:50:00.640: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:50:00.640: [pipewire]     Size: 1920x1080
+18:50:00.640: [pipewire]     Framerate: 0/1
+18:50:00.640: [pipewire] Negotiated format:
+18:50:00.640: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:50:00.640: [pipewire]     Size: 1920x1080
+18:50:00.640: [pipewire]     Framerate: 0/1
+18:50:00.640: [pipewire] Negotiated format:
+18:50:00.640: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:50:00.640: [pipewire]     Size: 1920x1080
+18:50:00.640: [pipewire]     Framerate: 0/1
+18:50:00.640: [pipewire] Negotiated format:
+18:50:00.640: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:50:00.640: [pipewire]     Size: 1920x1080
+18:50:00.640: [pipewire]     Framerate: 0/1
+18:50:00.640: [pipewire] Negotiated format:
+18:50:00.640: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:50:00.640: [pipewire]     Size: 1920x1080
+18:50:00.640: [pipewire]     Framerate: 0/1
+18:50:00.646: [pipewire] Stream 0x5c559813a160 state: "paused" (error: none)
+18:50:00.646: [pipewire] Stream 0x5c559813a160 state: "streaming" (error: none)
+18:50:00.723: glEGLImageTargetTexture2DOES failed, glGetError returned GL_INVALID_OPERATION(0x502)
+18:50:00.723: [pipewire] Renegotiating stream
+18:50:00.723: [pipewire] Negotiated format:
+18:50:00.723: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:50:00.723: [pipewire]     Size: 1900x1028
+18:50:00.723: [pipewire]     Framerate: 0/1
+18:50:11.787: User Removed source 'Screen Capture (PipeWire) 2' (pipewire-screen-capture-source) from scene 'Scene'
+18:50:11.794: [pipewire] Stream 0x5c559813a160 state: "paused" (error: none)
+18:50:11.840: [pipewire] Stream 0x5c559813a160 state: "unconnected" (error: none)
+18:50:13.620: [pipewire] Stream 0x5c5597c31ca0 state: "paused" (error: none)
+18:50:23.827: User added scene 'Scene - hypr'
+18:50:23.828: User switched to scene 'Scene - hypr'
+18:50:27.025: Creating a popup with a parent, QWidgetWindow(0x5c55946a65d0, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x5c5597965510, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+18:50:38.762: PipeWire initialized
+18:50:38.764: User added source 'Full' (pipewire-screen-capture-source) to scene 'Scene - hypr'
+18:50:38.773: [pipewire] Screencast session created
+18:50:40.233: [pipewire] Asking for monitor and window
+18:50:40.235: [pipewire] source selected, setting up screencast
+18:50:40.237: [pipewire] Server version: 1.2.3
+18:50:40.238: [pipewire] Library version: 1.2.3
+18:50:40.238: [pipewire] Header version: 1.2.1
+18:50:40.238: [pipewire] Created stream 0x5c5597ab9c90
+18:50:40.238: [pipewire] Stream 0x5c5597ab9c90 state: "connecting" (error: none)
+18:50:40.238: [pipewire] Playing stream 0x5c5597ab9c90
+18:50:40.238: [pipewire] Stream 0x5c5597ab9c90 state: "paused" (error: none)
+18:50:40.250: [pipewire] Negotiated format:
+18:50:40.250: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:50:40.250: [pipewire]     Modifier: 0x0
+18:50:40.250: [pipewire]     Size: 1920x1080
+18:50:40.250: [pipewire]     Framerate: 0/1
+18:50:40.250: [pipewire] Negotiated format:
+18:50:40.250: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:50:40.250: [pipewire]     Modifier: 0x0
+18:50:40.250: [pipewire]     Size: 1920x1080
+18:50:40.250: [pipewire]     Framerate: 0/1
+18:50:40.251: [pipewire] Stream 0x5c5597ab9c90 state: "streaming" (error: none)
+18:50:40.302: glEGLImageTargetTexture2DOES failed, glGetError returned GL_INVALID_OPERATION(0x502)
+18:50:40.304: glEGLImageTargetTexture2DOES failed, glGetError returned GL_INVALID_OPERATION(0x502)
+18:50:40.304: [pipewire] Negotiated format:
+18:50:40.304: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:50:40.304: [pipewire]     Modifier: 0x0
+18:50:40.304: [pipewire]     Size: 1920x1080
+18:50:40.304: [pipewire]     Framerate: 0/1
+18:50:40.304: [pipewire] Negotiated format:
+18:50:40.304: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:50:40.304: [pipewire]     Modifier: 0x0
+18:50:40.304: [pipewire]     Size: 1920x1080
+18:50:40.304: [pipewire]     Framerate: 0/1
+18:50:40.304: [pipewire] Negotiated format:
+18:50:40.304: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:50:40.304: [pipewire]     Modifier: 0x0
+18:50:40.304: [pipewire]     Size: 1920x1080
+18:50:40.304: [pipewire]     Framerate: 0/1
+18:50:40.304: [pipewire] Negotiated format:
+18:50:40.304: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:50:40.304: [pipewire]     Modifier: 0x0
+18:50:40.304: [pipewire]     Size: 1920x1080
+18:50:40.304: [pipewire]     Framerate: 0/1
+18:50:40.305: [pipewire] Renegotiating stream
+18:50:40.305: [pipewire] Negotiated format:
+18:50:40.305: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:50:40.305: [pipewire]     Modifier: 0x0
+18:50:40.305: [pipewire]     Size: 1920x1080
+18:50:40.305: [pipewire]     Framerate: 0/1
+18:50:40.305: [pipewire] Negotiated format:
+18:50:40.305: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:50:40.305: [pipewire]     Modifier: 0xffffffffffffff
+18:50:40.305: [pipewire]     Size: 1920x1080
+18:50:40.305: [pipewire]     Framerate: 0/1
+18:50:40.321: glEGLImageTargetTexture2DOES failed, glGetError returned GL_INVALID_OPERATION(0x502)
+18:50:40.321: [pipewire] Renegotiating stream
+18:50:40.322: [pipewire] Stream 0x5c5597ab9c90 state: "paused" (error: none)
+18:50:40.322: [pipewire] Negotiated format:
+18:50:40.322: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:50:40.322: [pipewire]     Size: 1920x1080
+18:50:40.322: [pipewire]     Framerate: 0/1
+18:50:40.327: [pipewire] Stream 0x5c5597ab9c90 state: "streaming" (error: none)

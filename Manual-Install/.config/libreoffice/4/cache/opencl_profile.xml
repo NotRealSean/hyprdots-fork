@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+ <version>LibreOffice v1</version>
+ <device>
+  <type>opencl</type>
+  <name>NVIDIA GeForce RTX 3050 Laptop GPU</name>
+  <driver>560.35.03</driver>
+  <time>41732</time>
+  <errors>false</errors>
+ </device>
+ <device>
+  <type>opencl</type>
+  <name>AMD Radeon 660M (radeonsi, rembrandt, LLVM 18.1.8, DRM 3.57, 6.10.6-arch1-1)</name>
+  <driver>24.1.6-arch1.1</driver>
+  <time>10887878</time>
+  <errors>false</errors>
+ </device>
+ <device>
+  <type>native</type>
+  <time>2480640</time>
+  <errors>false</errors>
+ </device>
+</profile>

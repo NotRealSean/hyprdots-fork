@@ -1,0 +1,15 @@
+2024/09/04-18:23:00.897 119f Reusing MANIFEST /home/notrealsean/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/09/04-18:23:00.908 119f Recovering log #979
+2024/09/04-18:23:00.909 119f Reusing old log /home/notrealsean/.config/vesktop/sessionData/Local Storage/leveldb/000979.log 
+2024/09/04-18:24:00.693 11a0 Level-0 table #983: started
+2024/09/04-18:24:00.698 11a0 Level-0 table #983: 78305 bytes OK
+2024/09/04-18:24:00.705 11a0 Delete type=0 #979
+2024/09/04-18:24:00.705 11a0 Compacting 4@0 + 1@1 files
+2024/09/04-18:24:00.711 11a0 Generated table #984@0: 60 keys, 77413 bytes
+2024/09/04-18:24:00.711 11a0 Compacted 4@0 + 1@1 files => 77413 bytes
+2024/09/04-18:24:00.717 11a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/04-18:24:00.717 11a0 Delete type=2 #978
+2024/09/04-18:24:00.717 11a0 Delete type=2 #976
+2024/09/04-18:24:00.717 11a0 Delete type=2 #983
+2024/09/04-18:24:00.717 11a0 Delete type=2 #980
+2024/09/04-18:24:00.717 11a0 Delete type=2 #974
