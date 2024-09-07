@@ -1,5 +1,4 @@
-# !!! THIS CONFIG IS NO LONGER MAINTAIN AS HYPRLAND DOT FILE !!!
-# I'll only update some script and others config file
+# !!! Discontinued !!!
 
 # ~hyprdots~
 ~This is my personal dots file edit on top of [prasanthrangan's hyprdots](https://github.com/prasanthrangan/hyprdots) with wallpaper, keybinds and Nvidia adjustment.~
